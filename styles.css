@@ -1,0 +1,157 @@
+
+  .attribution {
+    font-size: 11px; text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+  .card-backs {
+    background-color: ;
+    height: 500px;
+    width: 900px;
+    display: inline-block;
+    position: relative;
+    margin: 7% auto 7% auto;
+  }
+
+  .sedans-card {
+    background-color: hsl(31, 77%, 52%);
+    text-align: left;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width:300px;
+    height:500px;
+    position: absolute;
+  }
+
+  .suvs-card {
+    background-color: hsl(184, 100%, 22%);
+    text-align: left;
+    width:300px;
+    height:500px;
+    position: absolute;
+    margin-left: 300px;
+
+  }
+  .luxury-card {
+    background-color: hsl(179, 100%, 13%);
+    text-align: left;
+    width:300px;
+    height:500px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    margin-left: 600px;
+  }
+
+  .icon {
+    padding: 50px 0px 35px 50px;
+  }
+
+  .button-sedans {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+    font-size: 16px;
+    border-width: 0px;
+    border-radius: 25px;
+    padding: 15px 30px 15px 30px;
+    margin-top: 0px;
+    margin-left: 50px;
+  }
+
+  .button-sedans:hover {
+    border: 2px solid hsl(0, 0%, 95%);
+    background-color: hsl(31, 77%, 52%);
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+  }
+
+  .button-suvs {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(184, 100%, 22%);
+    font-size: 16px;
+    border-width: 0px;
+    border-radius: 25px;
+    padding: 15px 30px 15px 30px;
+    margin-top: 0px;
+    margin-left: 50px;
+  }
+
+  .button-suvs:hover {
+    border: 2px solid hsl(0, 0%, 95%);
+    background-color: hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+  }
+
+  .button-luxury {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%);
+    font-size: 16px;
+    border-width: 0px;
+    border-radius: 25px;
+    padding: 15px 30px 15px 30px;
+    margin-top: 0px;
+    margin-left: 50px;
+  }
+
+  .button-luxury:hover {
+    border: 2px solid hsl(0, 0%, 95%);
+    background-color: hsl(179, 100%, 13%);
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+  }
+
+  body {
+    color: hsl(0, 0%, 95%);
+    text-align: center;
+  }
+
+  p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: "Lexend Decca", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.6;
+    padding-left: 50px;
+    padding-right: 55px;
+    padding-bottom: 65px;
+  }
+
+  h3 {
+    color: hsl(0, 0%, 95);
+    font-family: "Big Shoulders Display", cursive;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+
+  }
+
+  @media (max-width: 500px) {
+    .card-backs {height: 1500px; width: 300px;}
+
+    .sedans-card {
+      position: static;
+      margin-left: 0px;
+      width: auto;
+      border-top-right-radius: 5px;
+      border-bottom-left-radius: 0px;
+    }
+
+    .suvs-card {
+      position: static;
+      static; margin-left: 0px;
+      width: auto;
+    }
+
+    .luxury-card {
+      position: static;
+      margin-left: 0px;
+      width: auto;
+      border-top-right-radius: 0px;
+      border-bottom-left-radius: 5px;
+    }
+}
