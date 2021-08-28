@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://marcus-hugo.github.io/3-column-preview-card-component-main/#)
+- Solution URL: [https://github.com/marcus-hugo/3-column-preview-card-component-main](https://your-solution-url.com)
+- Live Site URL: [https://marcus-hugo.github.io/3-column-preview-card-component-main/](https://marcus-hugo.github.io/3-column-preview-card-component-main/#)
 
 ## My process
 
