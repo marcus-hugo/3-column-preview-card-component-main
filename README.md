@@ -57,6 +57,6 @@ Keeping an organized and consistent approach with folder structures and css.
 
 ## Author
 - Website - [Marcus Hugo](https://www.your-site.com)
-- Frontend Mentor - [@marcus-hugo](https://www.frontendmentor.io/profile/@marcus-hugo)
+- Frontend Mentor - [@marcus-hugo](https://www.frontendmentor.io/profile/marcus-hugo)
 
 ## Acknowledgments
