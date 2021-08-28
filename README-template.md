@@ -16,7 +16,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](images/screenshot.png)
 
 ### Links
 
@@ -42,18 +41,22 @@ Users should be able to:
 
 - HTML5
 - CSS
+- Flexbox
 - [Styled Components](https://styled-components.com/) - For styles
 
 
 ### What I learned
+Basic folder structer for web development.  Created a styles folder for my css file.  Completely
+reworked the css file.  I used flexbox to center the content. 
+I made variables for color and fonts.  Focused on combing selectors when they shared the same properties.
 
 ### Continued development
+Keeping an organized consistnet approach with a folder structures and css.
 
 ### Useful resources
 
 ## Author
-
 - Website - [Marcus Hugo](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@marcus-hugo)
 
 ## Acknowledgments
