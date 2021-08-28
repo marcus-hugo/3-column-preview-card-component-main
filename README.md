@@ -51,7 +51,7 @@ reworked the css file.  I used flexbox to center the content.
 I made variables for colors and fonts.  Focused on combing selectors when they shared the same properties.
 
 ### Continued development
-Keeping an organized consistent approach with a folder structures and css.
+Keeping an organized and consistent approach with folder structures and css.
 
 ### Useful resources
 
