@@ -48,7 +48,7 @@ Users should be able to:
 ### What I learned
 Basic folder structer for web development.  Created a styles folder for my css file.  Completely
 reworked the css file.  I used flexbox to center the content. 
-I made variables for colors and fonts.  Focused on combing selectors when they shared the same properties.
+I made variables for colors and fonts.  Focused on combining selectors when they shared the same properties.
 
 ### Continued development
 Keeping an organized and consistent approach with folder structures and css.
